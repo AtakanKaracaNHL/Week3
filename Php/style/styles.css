@@ -1,0 +1,22 @@
+ul.voeding {
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+}
+
+ul.voeding li {
+    margin: 4px 0;
+}
+
+.status {
+    font-weight: bold;
+    color: blue;
+}
+
+.waarschuwing {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
